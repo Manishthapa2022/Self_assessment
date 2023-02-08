@@ -12,6 +12,8 @@ After choosing the dataset, we divided the responsibilites within our team and s
 
 ## Project and Team Summary
 
+The purpose of our analysis was to determine whether the patients were at 'High Risk' or 'Low Risk' of getting heart disease based on different parameters captured in an observation file. Heart disease prediction analysis using the Supervised ML model could assist experts to make quicker decisions and help to take precautionary measures like lifestyle changes to reduce the risk.
+
 Our project team decided to meet every Monday and Wednesday during the class room hours to discuss any issues, challenges and progress made. Incase some one had encountered any major issues with their deliverbales, they would post it on the Project team chanel for others to comment/advise. On mutliple occasions, when we were not sure about a topic, we would request to TA's to guide us and sometimes we would put it to vote (which was very seldom). 
 
 One of the challenges was creating the ERD diagram, as we had only one CSV file and 918 rows and 14 columns of data. The unique values were not sufficient enough so we decided to create a Patient ID column (Primary key) and then link this feature accross all tables. Later, during the analysis this column would be dropped and not included as part of the analysis. Apart from this, creating Dashboard for visualization was another challenge and we managed to resolve it by using Tableau. 
