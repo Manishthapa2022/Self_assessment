@@ -3,8 +3,8 @@
 ## Cohesive Written analysis
 
 As part of the project team, I helped in choosing the dataset for the project. We were debating on what type of dataset we should choose and I suggested that we should focus on the Heathcare sector and choose a classification dataset on which Supervised machine learning models can be used. I believe the biggest challenege was to chose a Dataset that would suffice our requirements since a bad dataset would have compeletely derailed our analysis and coul have had a major impact on the deliverables. 
-To ensure that we had a good dataset, we shortlisted some three to four datasets on the first day of the Project and then took some time to evaluate them. Finally I recommended to puruse the Heart Risk dataset which everybody agreed on. 
-Apart from the above, I carried out the analysis of the dataset including Preprocessing, training of the model, and final results and also made the Dashboard for visulization. 
+To ensure that we had a good dataset, we shortlisted some three to four datasets on the first day of the Project and then took some time to evaluate them. Finally we decided to puruse the Heart Risk dataset which everybody agreed on. 
+As part of my deliverables, I carried out the analysis of the dataset including Preprocessing, training of the model, and final results and also made the Dashboard for visulization. 
 
 ## Cohesive written summary
 
